@@ -26,6 +26,10 @@
 💡 **Goal:** Aspiring Computational Biologist & Software Developer | Open to roles in Bioinformatics, Genomics Software & Web Development. Passionate about building real-world healthcare & tech solutions.
 
 ---
+📊 **GitHub Stats:**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=compact&theme=tokyonight)
 
 
