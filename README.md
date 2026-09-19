@@ -64,15 +64,6 @@
 ---
 
 
-### 💬 Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
 <div align="center">
 
 ## **_" Code is like humor. When you have to explain it, it's bad. "_**
