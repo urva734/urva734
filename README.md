@@ -50,6 +50,7 @@
 
 ### 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&hide=stars,prs)
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urva734&theme=radical" width="49%" />
