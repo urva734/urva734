@@ -73,22 +73,17 @@
 </div>
 
 ---
-<div style={{
-  backgroundColor: '#0a0a0a',
-  borderRadius: '12px',
-  padding: '20px 25px',
-  maxWidth: '700px',
-  margin: '20px auto',
-  boxShadow: '0 4px 15px rgba(0,0,0,0.5)'
-}}>
-  <p style={{ color: '#7fffd4', fontSize: '16px', fontStyle: 'italic', textAlign: 'left', lineHeight: '1.6' }}>
-    <span style={{ color: '#ffae42', fontSize: '22px' }}>“</span>
-    As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
-    <span style={{ color: '#ffae42', fontSize: '22px' }}>”</span>
-  </p>
-  <p style={{ color: '#ff2e7d', textAlign: 'right', marginTop: '10px', fontSize: '14px', fontWeight: 'bold' }}>
-    - Charles Babbage
-  </p>
+<div align="center">
+  <div style="background:#000000; border:1px solid #30363d; border-radius:12px; padding:24px 28px; width:85%; max-width:650px;">
+    <p align="left" style="color:#7FFFD4; font-size:16px; font-family:monospace; line-height:1.6; margin:0;">
+      <span style="color:#FFA500; font-size:24px; font-weight:bold;">“</span>
+      Code is like humor. When you have to explain it, it's bad.
+      <span style="color:#FFA500; font-size:24px; font-weight:bold;">”</span>
+    </p>
+    <p align="right" style="color:#FF6B9E; font-size:14px; font-family:monospace; margin:12px 0 0 0; font-weight:bold;">
+      - Cory House
+    </p>
+  </div>
 </div>
 
 <div align="center">
