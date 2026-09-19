@@ -99,12 +99,7 @@
 ### 🧩 LeetCode Problem Solving
 *Live real-time tracker of coding challenges & algorithmic problem-solving milestones.*
 
-<div align="center">
 
-[![LeetCode](https://leetcard.jacoblin.cool/urva734?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/urva734)
-*`urva734` *
-
-</div>
 
 ---
 
