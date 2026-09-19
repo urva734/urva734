@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&bg_color=0d1117&color=9f7aea&line=9f7aea&point=ffffff&area=true&hide_border=true&custom_title=Urva's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&bg_color=0d1117&color=9f7aea&line=9f7aea&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 </div>
 
