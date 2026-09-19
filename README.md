@@ -102,7 +102,7 @@
 <div align="center">
 
 [![LeetCode](https://leetcard.jacoblin.cool/urva734?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/urva734)
-*Replace `urva734` with your real LeetCode username if different*
+*`urva734` *
 
 </div>
 
@@ -110,9 +110,7 @@
 
 <div align="center">
 
-### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=urva734&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-<br>
+
 <b>Thanks for visiting! Let's build something amazing for Biology + Code 🧬💻</b>
 
 </div>
