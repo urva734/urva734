@@ -90,8 +90,7 @@
 
 <div align="center">
 
-[![Urva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&hide_border=true)](https://github.com/urva734)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&hide_border=true&area=true&color=ff69b4&line=ff69b4&point=ffffff" width="100%" />
 </div>
 
 ---
