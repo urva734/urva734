@@ -93,3 +93,14 @@
 <b>Thanks for visiting! Let's build something amazing for Biology + Code 🧬💻</b>
 
 </div>
+
+<div align="center">
+
+### **" Code is like humor. When you have to explain it, it's bad. "**
+**- Cory House**
+
+<br>
+
+**Thanks for visiting! Let's build something amazing for Biology + Code 🧬💻**
+
+</div>
