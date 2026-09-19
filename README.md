@@ -79,8 +79,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide_border=true&hide=stars&count_private=true&border_radius=15" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="48%" />
+<img src="https://raw.githubusercontent.com/urva734/urva734/main/stats.png" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="49%" />
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&bg_color=0d1117&color=9f7aea&line=9f7aea&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/urva734/urva734/main/graph.png" width="100%" />
 
 </div>
 
@@ -104,6 +104,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=urva734&label=Profile%20views&color=ff69b4&style=flat" />
 </div>
+
 
 
 ### 💬 Dev Quote
