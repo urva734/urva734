@@ -62,6 +62,21 @@
 </div>
 
 ---
+<div align="center">
+
+### **" Code is like humor. When you have to explain it, it's bad. "**
+
+**- Cory House**
+
+<br><br>
+
+---
+
+<br>
+
+**Thanks for visiting! Let's build something amazing for Biology + Code 🧬💻**
+
+</div>
 
 
 <div align="center">
