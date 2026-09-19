@@ -53,7 +53,6 @@
 
 <div align="center"
 
-<img src="https://streak-stats.demolab.com?user=urva734&theme=radical&hide_border=true&border_radius=15" width="65%" />
 
 </div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urva734&theme=radical" width="49%" />
