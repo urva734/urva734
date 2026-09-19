@@ -66,10 +66,16 @@
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
 
 </div>
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=urva734&theme=react-dark&bg_color=0D1117&color=9F7AEA&line=9F7AEA&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
 ---
 
 
