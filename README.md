@@ -36,7 +36,6 @@
 *A smart IoT & web-enabled recipe app designed for search, categories, favorites and real-time meal tracking.*
 
 [![SOURCE CODE](https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github)](https://github.com/urva734/flutter-foodie-flame-app)
-[![VIEW PROJECTS](https://img.shields.io/badge/VIEW%20PROJECTS-0A66C2?style=for-the-badge)](https://github.com/urva734?tab=repositories)
 
 <br>
 
