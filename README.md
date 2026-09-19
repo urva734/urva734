@@ -65,36 +65,21 @@
 </div>
 
 ---
-## 🔗 GitHub Stats
-
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<!-- LEFT - Your Stats WITHOUT stars -->
+<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide=stars,prs&hide_border=true" width="49%" />
 
-<!-- LEFT - FIXED: No Stars, No Broken -->
-<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide=stars,prs&hide_border=true" />
+<!-- RIGHT - Top Languages by Repo -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=donut&theme=radical&hide_border=true" width="49%" />
 
-</td>
-<td width="50%">
+<br><br>
 
-<!-- RIGHT TOP - Top Languages by Repo -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=donut&theme=radical&hide_border=true" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<!-- BOTTOM - Top Languages by Commit -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="70%" />
-
-</td>
-</tr>
-</table>
+<!-- BOTTOM - Top Languages by Commit (this one was working for you) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="60%" />
 
 </div>
+
 <div align="center">
 
 ### **" Code is like humor. When you have to explain it, it's bad. "**
