@@ -59,18 +59,7 @@
 
 <br><br>
 
-<div align="center">
 
-  <!-- LEFT - Keep as it is -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urva734&theme=radical" width="32%" />
-
-  <!-- MIDDLE - Old Right moved to Middle -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="32%" />
-
-  <!-- RIGHT - Contributed to 5 (NO STARS) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide=stars,prs&hide_border=true" width="32%" />
-
-</div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="49%" />
 
 </div>
