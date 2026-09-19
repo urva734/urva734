@@ -60,25 +60,6 @@
 <br><br>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="49%" />
-
-</div>
-
----
-<div align="center">
-
-<!-- LEFT - Your Stats WITHOUT stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide=stars,prs&hide_border=true" width="49%" />
-
-<!-- RIGHT - Top Languages by Repo -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=donut&theme=radical&hide_border=true" width="49%" />
-
-<br><br>
-
-<!-- BOTTOM - Top Languages by Commit (this one was working for you) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="60%" />
-
-</div>
 
 <div align="center">
 
