@@ -67,6 +67,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
+
 </div>
 
 ---
