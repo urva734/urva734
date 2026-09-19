@@ -75,15 +75,33 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=15" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=compact&theme=radical&hide_border=true&border_radius=15" width="40%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=urva734&theme=radical&hide_border=true&border_radius=15" width="65%" />
 
 </div>
 
 ---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/ff69b4/urva734" width="100%" alt="contribution graph" />
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=redical&hide_border=true&area=true&color=ff69b4&line=ff69b4&point=ffffff" width="100%" />
+
+</div>
+
+---
+
 
 ### 💬 Dev Quote
 
