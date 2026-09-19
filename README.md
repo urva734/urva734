@@ -50,7 +50,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/urva734/urva734/main/stats.png" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urva734&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="49%" />
+
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="49%" />
 
 </div>
@@ -61,10 +65,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/urva734/urva734/main/graph.png" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&bg_color=0d1117&color=9f7aea&line=9f7aea&point=ffffff&area=true&hide_border=true&custom_title=Urva's%20Contribution%20Graph" width="100%" />
 
 </div>
 
+---
 
 
 
