@@ -65,6 +65,36 @@
 </div>
 
 ---
+<div align="center">
+
+### GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+<!-- STATS - NO STARS -->
+<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide=stars,prs&hide_border=true" />
+
+</td>
+<td width="50%">
+
+<!-- Top Languages by Repo -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<!-- Top Languages by Commit -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="60%" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 <div align="center">
