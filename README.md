@@ -79,41 +79,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=15" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=compact&theme=radical&hide_border=true&border_radius=15" width="40%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=urva734&theme=radical&hide_border=true&border_radius=15" width="65%" />
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/ff69b4/urva734" width="100%" alt="contribution graph" />
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=redical&hide_border=true&area=true&color=ff69b4&line=ff69b4&point=ffffff" width="100%" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urva734&theme=radical" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide_border=true&hide=stars&count_private=true&border_radius=15" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="49%" />
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="49%" />
-<img src="https://streak-stats.demolab.com?user=urva734&theme=radical&hide_border=true&border_radius=10" width="49%" />
-
 </div>
 
 ---
@@ -122,11 +90,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&bg_color=0d1117&color=9f7aea&line=9f7aea&point=ffffff&area=true&hide_border=true&custom_title=Urva's%20Contribution%20Graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
 
 </div>
 
 ---
+
+### 💬 Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=urva734&label=Profile%20views&color=ff69b4&style=flat" />
+</div>
 
 
 ### 💬 Dev Quote
