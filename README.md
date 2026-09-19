@@ -65,38 +65,36 @@
 </div>
 
 ---
-<div align="center">
+## 🔗 GitHub Stats
 
-### GitHub Stats
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-<!-- STATS - NO STARS -->
+<!-- LEFT - FIXED: No Stars, No Broken -->
 <img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical&hide=stars,prs&hide_border=true" />
 
 </td>
 <td width="50%">
 
-<!-- Top Languages by Repo -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" />
+<!-- RIGHT TOP - Top Languages by Repo -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=donut&theme=radical&hide_border=true" />
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<!-- Top Languages by Commit -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="60%" />
+<!-- BOTTOM - Top Languages by Commit -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="70%" />
 
 </td>
 </tr>
 </table>
 
 </div>
-
-
 <div align="center">
 
 ### **" Code is like humor. When you have to explain it, it's bad. "**
