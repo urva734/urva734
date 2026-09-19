@@ -73,15 +73,22 @@
 </div>
 
 ---
-<div align="center">
-  <div style="background-color:#0a0a0a; border-radius:12px; padding:20px 25px; width:85%; max-width:700px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
-    <p style="color:#7fffd4; font-size:16px; font-style:italic; text-align:left; margin:0; line-height:1.6;">
-      <span style="color:#ffae42; font-size:22px;">“</span>As soon as an Analytical Engine exists, it will necessarily guide the future course of science.<span style="color:#ffae42; font-size:22px;">”</span>
-    </p>
-    <p style="color:#ff2e7d; text-align:right; margin:10px 0 0 0; font-size:14px; font-weight:bold;">
-      - Charles Babbage
-    </p>
-  </div>
+<div style={{
+  backgroundColor: '#0a0a0a',
+  borderRadius: '12px',
+  padding: '20px 25px',
+  maxWidth: '700px',
+  margin: '20px auto',
+  boxShadow: '0 4px 15px rgba(0,0,0,0.5)'
+}}>
+  <p style={{ color: '#7fffd4', fontSize: '16px', fontStyle: 'italic', textAlign: 'left', lineHeight: '1.6' }}>
+    <span style={{ color: '#ffae42', fontSize: '22px' }}>“</span>
+    As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+    <span style={{ color: '#ffae42', fontSize: '22px' }}>”</span>
+  </p>
+  <p style={{ color: '#ff2e7d', textAlign: 'right', marginTop: '10px', fontSize: '14px', fontWeight: 'bold' }}>
+    - Charles Babbage
+  </p>
 </div>
 
 <div align="center">
