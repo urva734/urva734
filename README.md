@@ -53,10 +53,6 @@
 
 <div align="center"
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=tokyonight&hide=stars,prs" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=donut&theme=tokyonight" width="49%" />
-</div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urva734&theme=radical" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="49%" />
