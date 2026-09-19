@@ -42,7 +42,7 @@
 
 #### 🏥 Medical Pharmacy Management System
 *A complete Medical & Pharmacy Management System for hospitals to manage inventory, sales, and patients.*
-  [![SOURCE CODE](https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github)](https://github.com/urva734/Medical-Pharmacy-Management-System)
+[![SOURCE CODE](https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github)](https://github.com/urva734/Medical-Pharmacy-Management-System)
 [![VIEW PROJECTS](https://img.shields.io/badge/VIEW%20PROJECTS-0A66C2?style=for-the-badge)](https://github.com/urva734?tab=repositories)
 
 </div>
