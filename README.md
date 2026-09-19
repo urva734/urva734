@@ -64,10 +64,6 @@
 ---
 
 
-
-
-
-
 ### 💬 Dev Quote
 
 <div align="center">
@@ -77,13 +73,11 @@
 </div>
 
 ---
+<div align="center" style="background:black; padding:15px; border-radius:10px;">
+  <i style="color:#7fffd4;">"Code is like humor. When you have to explain it, it's bad."</i><br>
+  <span style="color:#ff69b4;">- Cory House</span>
+</div>
 
-
-
-
-
-
----
 
 <div align="center">
 
