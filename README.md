@@ -90,7 +90,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urva734&theme=tokyo-night&hide_border=true&area=true&color=ff69b4&line=ff69b4&point=ffffff" width="100%" />
+
+<img src="https://ghchart.rshah.org/ff69b4/urva734" width="100%" alt="Urva's Contribution Graph" />
+<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urva734&theme=radical" width="100%" />
+
 </div>
 
 ---
