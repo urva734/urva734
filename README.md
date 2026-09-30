@@ -92,26 +92,7 @@ Building from scratch, no BioPython dependency - Tested on `1AKI - Lysozyme (129
 
 <div align="center">
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urva734&layout=compact&theme=radical&langs_count=6" width="48%" />
-
-<br>
-
-<!-- Your old cards - Keep them but now Python will show after you make repos public -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="49%" />
-
-<br>
-
-<!-- Manual highlight for Python since you have 4 Python projects -->
-![Python Projects](https://img.shields.io/badge/Python_Projects-4-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PDB Tools](https://img.shields.io/badge/PDB_Geometry-1AKI_Lysozyme-2E97F7?style=for-the-badge)
-
-</div>
 
 ### 📊 GitHub Stats
 
