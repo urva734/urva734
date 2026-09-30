@@ -30,17 +30,18 @@
 
 ---
 
-### 🧬 : PDB Geometry Series - Pure Python
+### 🧬 : PDB Geometry Series -  Python
 
-| Project | What It Validates | 
+Building from scratch, no BioPython dependency - Tested on `1AKI - Lysozyme (129aa)`:
+
+| Project | Validates | Core Concept |
 | :--- | :--- | :--- |
-| **01 - Fetcher** | Downloads PDB from RCSB |
-| **02 - Peptide Bond** | Checks C-N ~1.33Å length | 
-| **03 - Bond Angle** | Checks N-CA-C ~111° angle | 
-| **04 - Ramachandran** | Phi/Psi dihedral validation | 
+| **01 - Fetcher** | RCSB PDB download & parse | `ATOM` records |
+| **02 - Peptide Bond** | C-N bond ~1.33Å | Peptide linkage |
+| **03 - Bond Angle** | N-CA-C ~111° | Tetrahedral geometry |
+| **04 - Ramachandran** | Phi/Psi angles | Backbone dihedral |
 
-> All tools tested on `1AKI - Lysozyme (129aa)` with Matplotlib plots.
-
+> All tools use `matplotlib` for validation plots - pure Python math.
 ---
 
 ### 🔥 Featured Projects
