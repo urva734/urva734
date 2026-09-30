@@ -74,49 +74,6 @@ Building from scratch, no BioPython dependency - Tested on `1AKI - Lysozyme (129
 </div>
 
 ---
-### 📊 GitHub Stats
-
-
-<div align="center"
-
-
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="49%" />
-
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="60%" />
-
-</div>
-
-
-<div align="center">
-
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=urva734&show_icons=true&theme=radical" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urva734&theme=radical" width="48%" />
-
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urva734&theme=radical" width="60%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=urva734&theme=radical" width="60%" />
-
-</div>
-
----
-
-<div align="center">
-
-### **" Code is like humor. When you have to explain it, it's bad. "**
-**- Cory House**
-
-**Thanks for visiting! Let's build something amazing for Biology + Code 🧬💻**
-
-</div>
 
 
 
