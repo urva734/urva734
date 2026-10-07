@@ -1,4 +1,4 @@
-### Hi there, I'm Urva 👋
+### Hi there, I'm Urva 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=650&lines=Bioinformatics+Student+%40+IUB;Aspiring+Computational+Biologist+%26+Developer;Building+PDB+Geometry+Tools+in+Python;Biology+%2B+Code+%3D+Future)](https://git.io/typing-svg)
 
