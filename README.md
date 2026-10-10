@@ -30,6 +30,15 @@
 
 ---
 
+#### 🌳 PhyloPseudo Pipeline - Universal Bacterial Phylogeny
+*Python + MEGA12 pipeline: Auto FASTA combine, GC analysis, MUSCLE alignment & ML phylogeny (1000 bootstrap). Case study: pqqD in Pseudomonas spp.*
+
+[![SOURCE CODE](https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github)](https://github.com/urva734/phylo-pseudo-pipeline)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/urva734/phylo-pseudo-pipeline)
+[![Biopython](https://img.shields.io/badge/Biopython-2E97F7?style=for-the-badge)](https://github.com/urva734/phylo-pseudo-pipeline)
+[![MEGA12](https://img.shields.io/badge/MEGA12-ML_Tree-00599C?style=for-the-badge)](https://github.com/urva734/phylo-pseudo-pipeline)
+
+> **Stack:** Python 3.10+ | Biopython | MEGA12 (JTT + 1000 Bootstrap) | R/ggtree | **Input:** 6 Pseudomonas pqqD (NCBI) | **Output:** GC 60.8% | ML Tree | `sequence_stats.csv`
 ### 🧬 : PDB Geometry Series -  Python
 
 Building from scratch, no BioPython dependency - Tested on `1AKI - Lysozyme (129aa)`:
