@@ -48,6 +48,13 @@ Building from scratch, no BioPython dependency - Tested on `1AKI - Lysozyme (129
 
 <div align="center">
 
+#### 🌳 PhyloPseudo Pipeline — Bacterial Phylogeny
+*End-to-end pipeline: FASTA merge → GC → MUSCLE → ML tree (1000 bootstrap). Case study pqqD, 6 Pseudomonas spp.*
+
+[![SOURCE CODE](https://img.shields.io/badge/SOURCE%20CODE-000000?style=for-the-badge&logo=github)](https://github.com/urva734/phylo-pseudo-pipeline)
+
+<div align="center">
+
 #### 🧬 PDB Geometry Toolkit (Python)
 *Pure-Python tools for PDB validation - fetcher, bond length, bond angle & Ramachandran plots.*
 
